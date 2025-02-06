@@ -1,8 +1,8 @@
-<h1 align="centre">Ciclo de Desarrollo de Aplicaciones Web</h1>
-<h2 align="centre">Curso 2023 - 2025</h2>
+<h1 align="center">Ciclo de Desarrollo de Aplicaciones Web</h1>
+<h2 align="left">Curso 2023 - 2025</h2>
 <body>
-  <!--Badge de desarrollo-->
   <p align="left">
+     <!--Badge de desarrollo-->
      <img src="https://img.shields.io/badge/status-en%20desarrollo-green">
   <!--Badge de issues-->
     <img src="https://img.shields.io/github/issues/MalditaCarlita/DAW"/>
@@ -14,5 +14,37 @@
     <img src="https://img.shields.io/github/followers/MalditaCarlita"/>
   <!--Badge de forks-->
     <img src="https://img.shields.io/github/forks/MalditaCarlita/DAW"/>
+  </p>
+  <p>Repositorio en desarrollo de las asignaturas de Ciclo de Grado Superior de Desarrollo de Aplicaciones Web, impartido por la Xunta de Galicia en los centros IES de Teis (Vigo) e IES de Rodeira (Cangas)</p>
+  <h3>Contenido lectivo</h3>
+  <p>Las asignaturas se organizan en dos años lectivos y un tercero en el que se realiza el FCT (Formación en Centros de Trabajo) y se desarrolla y presenta el PFC (Proyecto Final del Ciclo), de la siguiente manera:</p>
+  <p>
+    <ol>
+      <li>Primer año:
+        <ul>
+          <li>Programación (PROG)</li>
+          <li>Lenguaje de marcas (LM)</li>
+          <li>Bases de datos (BD)</li>
+          <li>Entornos de desarrollo (ED)</li>
+          <li>Formación y orientación laboral (FOL)</li>
+          <li>Sistemas informáticos (SI)</li>
+        </ul>
+      </li>
+      <li>Segundo año:
+        <ul>
+          <li>Desarrollo de Aplicaciones Web (DAW)</li>
+          <li>Desarrollo Web en Entorno Servidor (DWES)</li>
+          <li>Desarrollo Web en Entirno Cliente (DWEC)</li>
+          <li>Desarrollo de Interfaces Web (DIW)</li>
+          <li>Iniciativa Emprendedora (IE)</li>
+        </ul>
+      </li>
+      <li>Tercer año:
+        <ul>
+          <li>FCT</li>
+          <li>Proyecto</li>
+        </ul>
+      </li>
+    </ol>
   </p>
 </body>
