@@ -1,4 +1,9 @@
-<h1 align="center">Ciclo de Desarrollo de Aplicaciones Web</h1>
+<h1 align="center">
+  Ciclo de Desarrollo de Aplicaciones Web
+  <br/>
+      <img src="https://github.com/user-attachments/assets/653d74eb-3584-4b02-bf44-91b2c9ab7b01" alt="repositorio_daw"/>
+  <br/>
+</h1>
 <h2 align="left">Curso 2023 - 2025</h2>
 <body>
   <p align="left">
