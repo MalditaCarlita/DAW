@@ -1,11 +1,11 @@
-<h1 align="center">
-  Ciclo de Desarrollo de Aplicaciones Web
-  <br/>
-      <img src="https://github.com/user-attachments/assets/653d74eb-3584-4b02-bf44-91b2c9ab7b01" alt="repositorio_daw"/>
-  <br/>
-</h1>
-<h2 align="left">Curso 2023 - 2025</h2>
-<body>
+<div>
+  <h1 align="center">
+    Ciclo de Desarrollo de Aplicaciones Web
+    <br/>
+        <img src="https://github.com/user-attachments/assets/653d74eb-3584-4b02-bf44-91b2c9ab7b01" alt="repositorio_daw"/>
+    <br/>
+  </h1>
+  <h2 align="left">Curso 2023 - 2025</h2>
   <p align="left">
      <!--Badge de desarrollo-->
      <img src="https://img.shields.io/badge/status-en%20desarrollo-green">
@@ -23,7 +23,7 @@
   <p>Repositorio en desarrollo de las asignaturas de Ciclo de Grado Superior de Desarrollo de Aplicaciones Web, impartido por la Xunta de Galicia en los centros IES de Teis (Vigo) e IES de Rodeira (Cangas)</p>
   <h3>Contenido lectivo</h3>
   <p>Las asignaturas se organizan en dos años lectivos y un tercero en el que se realiza el FCT (Formación en Centros de Trabajo) y se desarrolla y presenta el PFC (Proyecto Final del Ciclo), de la siguiente manera:</p>
-  <p>
+  <p align="left">
     <ol>
       <li>Primer año:
         <ul>
@@ -52,4 +52,9 @@
       </li>
     </ol>
   </p>
-</body>
+  <h4>Autor</h4>
+  <a href="https://github.com/MalditaCarlita">
+   <img src="https://avatars.githubusercontent.com/u/120684708?v=4" alt="perfil" height="32px" width="32px"/>
+  </a>
+  <h5>Colaboradores</h5>
+</div>
