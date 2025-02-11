@@ -56,5 +56,10 @@
   <a href="https://github.com/MalditaCarlita">
    <img src="https://avatars.githubusercontent.com/u/120684708?v=4" alt="perfil" height="32px" width="32px"/>
   </a>
-  <h5>Colaboradores</h5>
+  <h4>Colaboradores</h4>
+  <h5>Licencia</h5>
+  <a href="http://creativecommons.org/licenses/by-nc-sa/4.0/">
+   <img src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png"/>
+  </a>
+  
 </div>
