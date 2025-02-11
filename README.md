@@ -53,19 +53,24 @@
     </ol>
   </p>
   <h4>Autor</h4>
-  <a href="https://github.com/MalditaCarlita">
-   <img src="https://avatars.githubusercontent.com/u/120684708?v=4" alt="perfil" height="32px" width="32px"/>
-  </a>
+  <p>
+    <a href="https://github.com/MalditaCarlita">
+     <img src="https://avatars.githubusercontent.com/u/120684708?v=4" alt="perfil" height="32px" width="32px"/>
+    </a>
+  </p>
   <h4>Colaboradores</h4>
-  <a href="https://github.com/albino-babuino" style="textdecoration: none;">
-   <img src="https://avatars.githubusercontent.com/u/63409815?v=4" alt="perfil" height="32px" width="32px"/>
-  </a>
-  <a href="https://github.com/christiaandelrio" style="textdecoration: none;">
-   <img src="https://avatars.githubusercontent.com/u/60599988?v=4" alt="perfil" height="32px" width="32px"/>
-  </a>
+  <p>
+    <a style="text-decoration: none;" href="https://github.com/albino-babuino" style="textdecoration: none;">
+     <img src="https://avatars.githubusercontent.com/u/63409815?v=4" alt="perfil" height="32px" width="32px"/>
+    </a>
+  </p>
+  <p>
+    <a style="text-decoration: none;" href="https://github.com/christiaandelrio" style="textdecoration: none;">
+     <img src="https://avatars.githubusercontent.com/u/60599988?v=4" alt="perfil" height="32px" width="32px"/>
+    </a>
+  </p>
   <h5>Licencia</h5>
   <a href="http://creativecommons.org/licenses/by-nc-sa/4.0/">
    <img src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png"/>
   </a>
-  
 </div>
