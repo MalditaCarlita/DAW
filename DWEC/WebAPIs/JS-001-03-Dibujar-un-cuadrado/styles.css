@@ -1,0 +1,19 @@
+html {
+	font-family: sans-serif;
+}
+
+h2 {
+	font-size: 16px;
+}
+
+body {
+	margin: 10px;
+	background: #f5f9fa;
+}
+
+canvas {
+	background: white;
+	border: 1px solid #4D4E53;
+	border-radius: 2px;
+}
+    

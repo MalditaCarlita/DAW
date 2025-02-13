@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+
+<html lang="es">
+
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+	<meta name="author" content="IES de Rodeira, DAW">
+    <meta name="description" content="EML">
+    <meta name="robots" content="noindex, nofollow">
+
+	<link rel="icon" type="image/png" href="favicon.png">
+
+	<script src="script.js" defer></script>	
+	<link rel="stylesheet" href="styles.css" /> 
+  
+    <title>JS-001-05</title>
+
+  </head>
+  
+  <body>
+    <h1>JS-001-05-Juego de averiguar numero</h1>
+	<hr/>
+	
+    <p>Se ha seleccionado un número secreto al azar entre 1 y 100. Intenta acertarlo en 10 intentos. En cada intento, te vamos informando si te pasaste o quedas por debajo del secreto.</p>
+
+    <div class="form">
+      <label for="campoIntento">Introduce tu intento: </label>
+      <input type="number" min="1" max="100" required id="campoIntento" class="campoIntento">
+      <input type="submit" value="Enviar intento" class="envioIntento">
+    </div>
+
+    <div class="parrafosResultados">
+      <p class="intentos"></p>
+      <p class="ultimoResultado"></p>
+      <p class="informeIntento"></p>
+    </div>
+
+  </body>
+</html>
