@@ -1,0 +1,28 @@
+{
+    "name": "usuario/usuario",
+    "description": "Tarea DWES04",
+    "type": "project",
+    "require": {
+        "philo/laravel-blade": "^3.1",
+        "milon/barcode": "*",
+        "fzaninotto/faker": "*"
+    },
+    "config": {
+        "optimaze-autoloader": true,
+        "allow-plugins": {
+            "kylekatarnls/update-helper": false
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Clases\\": "src"
+        }
+    },
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "carla",
+            "email": "carlaportelaubeira@gmail.com"
+        }
+    ]
+}
