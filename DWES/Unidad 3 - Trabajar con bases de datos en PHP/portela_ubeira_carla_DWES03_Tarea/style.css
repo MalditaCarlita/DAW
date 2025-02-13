@@ -1,0 +1,198 @@
+html, body{
+    color: black;
+    background-color: rgb(41, 177, 204);
+    width: 100%;
+    height: 100%;
+    box-sizing: border-box;
+    font-size: 16px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+h1{
+    display: block;
+    position: static;
+    text-align: center;
+    font-weight: bold;
+}
+
+button{
+    border-radius: 5px;
+    border-width: 0px;
+    width: 70px;
+    height: 36px;
+}
+
+table{
+    box-sizing: border-box;
+    position: static;
+    margin-top: 10px;
+    margin-left:250px;
+    color: white;
+    text-align: center;
+    border: none;
+    border-collapse: collapse;
+    width: 1000px;
+
+}
+
+table th{
+    font-weight: bold;
+    background-color: rgb(53, 53, 53);
+    height: 30px;
+    border: none;
+}
+
+form{
+    text-align: center;
+    width: 100%;
+}
+
+table tr {
+    height: 60px;
+}
+
+div{
+    width: 750px;
+    text-align: left;
+    display: block;
+    box-sizing: border-box;
+    position: static;
+    float:left;
+    padding-top: 2px;
+}
+
+label{
+    display: block;
+    position: static;
+    box-sizing: border-box;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+
+form input, select, textarea {
+    text-align: left;
+    display: block;
+    position: static;
+    box-sizing: border-box;
+    border-radius: 4px;
+    border-width: 0px;
+    width:680px;
+    height: 30px;
+    padding-left: 10px;
+}
+
+select{
+    color: grey;
+    width: 680px;
+    height: 32px;
+}
+
+textarea{
+    font-family: Arial, Helvetica, sans-serif;
+    width: 1100px;
+    height: 200px;
+    display: block;
+    position: static;
+}
+
+p{
+    color: black;
+}
+
+fieldset, legend{
+    width: 1100px;
+    color: white;
+    text-align: center;
+    height: auto;
+    align-self: center;
+    background-color:  rgb(86, 134, 157);
+    border: none;
+    display: block;
+    position: static;
+    box-sizing: border-box;
+    float: left;
+    padding-top: 10px;
+    padding-bottom: 15px;
+    border-radius: 4px;
+    border-width: none;
+    margin-left: 125px;
+}
+
+fieldset p {
+    color: white;
+    padding-top: 5px;
+    box-sizing: border-box;
+    text-align: left;
+}
+
+legend{
+    box-sizing: border-box;
+    display: block;
+    position: static;
+    background-color: rgb(51, 73, 73);
+    margin:0px;
+    font-size: 14px;
+}
+
+
+#p_codigo {
+    text-align: center;
+    box-sizing: border-box;
+    padding-top: 40px;
+} 
+
+.detalle {
+    height: 200px;
+    width: 100%;
+    padding-top: 20px;
+    display: block;
+    box-sizing: border-box;
+    text-align: center; 
+}
+
+.table-striped>tbody>tr:nth-child(odd)>td, 
+.table-striped>tbody>tr:nth-child(odd)>th {
+ background-color: rgb(68, 68, 68);
+}
+.table-striped>tbody>tr:nth-child(even)>td, 
+.table-striped>tbody>tr:nth-child(even)>th {
+ background-color: rgb(85, 84, 84);
+}
+.table-striped>thead>tr>th {
+   background-color: rgb(53, 53, 53);
+}
+
+#crear{
+    background-color: green;
+    color: white;
+    margin-left:250px;
+}
+
+#crear_crear, #modificar{
+    background-color: blue;
+    color: white;
+    position: static;
+}
+
+#detalle{
+    background-color: rgb(41, 177, 204);;
+    color: white;
+}
+#actualizar{
+    background-color: orange;
+    color: black;
+}
+#limpiar{
+    background-color: green;
+    color: white;
+}
+
+#borrar{
+    background-color: red;
+    color: white;
+}
+
+#volver{
+    background-color: rgb(86, 134, 157);
+    color: white;
+}
