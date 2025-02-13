@@ -1,0 +1,37 @@
+{
+  "nombreEscuadron": "Escuadron de Super Heroes",
+  "ciudadNatal": "Vigo",
+  "formado": 2016,
+  "baseSecreta": "Panificadora",
+  "activo": true,
+  "miembros": [
+    {
+      "nombre": "Hombre Molécula",
+      "edad": 29,
+      "identidadSecreta": "Pepe Consola",
+      "poderes": ["Resistente a la radiación", "Volverse muy pequeño", "Explosión luminosa"]
+    },
+    {
+      "nombre": "Dominatrix Letal",
+      "edad": 39,
+      "identidadSecreta": "Clara Limpia",
+      "poderes": [
+        "Puñetazo pisada elefante",
+        "Resistencia a daños",
+        "Reflejos sobrehumanos"
+      ]
+    },
+    {
+      "nombre": "Llama Eterna",
+      "edad": 1000000,
+      "identidadSecreta": "Desconocida",
+      "poderes": [
+        "Inmortalidad",
+        "Inmunidad al fuego",
+        "Infierno en la tierra",
+        "Teletransportación",
+        "Viaje interdimensional"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width">
+
+    <title>Ejemplo de Web Storage API</title>
+
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300|Bitter|Ubuntu+Mono' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="style.css">
+  </head>
+
+  <body>
+  <div class="envoltorio">
+    <h1>almacenamiento Web</h1>
+
+    <p>Este ejemplo está diseñado para demostrar el uso de la
+       <a href="http://dev.w3.org/html5/webstorage/">W3C Web Storage API</a>. 
+       Debería funcionar desde IE8. Elije colores de fondo, logotipos y fuentes 
+       personalizados de los menús desplegables a continuación, luego cierra y
+       vuelve a abrir la página; encontrarás que tus elecciones se recuerdan, 
+       ya que se almacenan mediante el almacenamiento web. 
+       También puedes visitar la <a href="evento.html" target="_blank">
+      salida de eventos de almacenamiento</a> (se abre en una pestaña nueva).
+       Ábrelo y cambia algunos valores en la página de índice, luego mira la 
+        de eventos: verás los cambios de almacenamiento informados.</p>
+
+    <form>
+      <div>
+        <label for="colorFondo">Elije un color de fondo:</label>
+	    <input class="color" id="colorFondo" value="FF0000">
+      </div>
+      <div>
+        <label for="fuente">Elije un estilo de fuente:</label>
+        <select id="fuente">
+        	<option value="'Open Sans Condensed', sans-serif" selected>Sans-serif</option>
+        	<option value="'Bitter', serif">Serif</option>
+        	<option value="'Ubuntu Mono'">Monospace</option>
+        </select>
+      </div>
+      <div>
+        <label for="imagen">Elije una imagen:</label>
+        <select id="imagen">
+        	<option value="imagenes/firefoxos.png" selected>Firefox</option>
+        	<option value="imagenes/cocodrilo.png">Cocodrilo</option>
+        	<option value="imagenes/tortuga.png">Tortuga</option>
+        </select>
+      </div>
+    </form>
+
+    <footer></footer>
+    <img src="imagenes/firefoxos.png" alt="Imagen de Zorro rojo, cocodrilo o tortuga">
+  </div>
+  </body>
+  <script src="jscolor/jscolor.js"></script>
+  <script src="script.js"></script>
+</html>
