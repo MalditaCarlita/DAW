@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="ejemplo01.xsl" ?>
+  <ciclo>
+    <módulo sesións="5" horas="133">Linguaxes de marcas</módulo>
+    <profesor>Xaime Louzán</profesor>
+  </ciclo>
