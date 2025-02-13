@@ -1,0 +1,29 @@
+html {
+    background-color: #CD919E;
+    font-size: 20px;
+}
+
+h1 {
+    text-align: center;
+}
+
+fieldset {
+    border-color:aliceblue;
+}
+
+legend {
+    font-weight: bold;
+    
+}
+label {
+    color: #2D70B7; text-align:left; font-weight: bold; width: 100px; display: inline-block;
+}
+
+input {
+    width: 200px; border-radius: 5px;
+}
+
+button {
+    text-align: center; border-radius: 5px;
+}
+
